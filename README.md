@@ -23,3 +23,6 @@
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### GitHub Stats
+[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=tier3guy)](https://github.com/anuraghazra/github-readme-stats)
