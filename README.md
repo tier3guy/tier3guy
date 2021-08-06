@@ -1,7 +1,7 @@
 # Hey there 👋
 ### I am Avinash Gupta👨‍💻, a self learner and a passionate open source ethusiast, currently pursuing my Bachelors in Information and Technology.
 
-### My end goal is become a full-stack developer🎇 and provide and providing free eduacction to free education to every child✌️. Right now I am teaching mathematics to a small a community in my neighbour. I really enjoying teaching them.
+### My end goal is become a full-stack developer🎇 and providing free eduacction to free education to every child✌️. Right now I am teaching mathematics to a small a community in my neighbour. I really enjoying teaching them.
 
 #### You can connent me on 🖖
 <a href="https://www.linkedin.com/in/avinash-gupta-3321041ba/">
