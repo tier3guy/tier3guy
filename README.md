@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vim**
 
-- 👨‍💻 All of my projects are available at [https://avinash-omega.vercel.app/](https://avinash-omega.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://avinash-iota.vercel.app/](https://avinash-iota.vercel.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@avinash651](https://hashnode.com/@avinash651)
 
