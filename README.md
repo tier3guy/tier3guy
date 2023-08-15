@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **avinashgupta.works@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rixQzQSYeU_RDFUYkoHOjzQfyLEqP9RP/view?usp=sharing](https://drive.google.com/file/d/1rixQzQSYeU_RDFUYkoHOjzQfyLEqP9RP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MrKnFrXRFATz_YjCRlCVP-M7XqQk5piD/view?usp=sharing](https://drive.google.com/file/d/1MrKnFrXRFATz_YjCRlCVP-M7XqQk5piD/view?usp=sharing)
 
 - ⚡ Fun fact **I do sketching as well 😉!**
 
