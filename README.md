@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **avinashgupta.works@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MrKnFrXRFATz_YjCRlCVP-M7XqQk5piD/view?usp=sharing](https://drive.google.com/file/d/1MrKnFrXRFATz_YjCRlCVP-M7XqQk5piD/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1MrKnFrXRFATz_YjCRlCVP-M7XqQk5piD/view?usp=sharing](https://drive.google.com/file/d/1xGHBF7YNju-GWZCuxb_79DHgMpAw4-24/view?usp=sharing))
 
 - ⚡ Fun fact **I do sketching as well 😉!**
 
