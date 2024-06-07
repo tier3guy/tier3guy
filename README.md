@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Vim**
 
-- 👨‍💻 All of my projects are available at [https://avinash-iota.vercel.app/](https://avinash-iota.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://tier3guy.com/](https://tier3guy.com/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@avinash651](https://hashnode.com/@avinash651)
-
-- 💬 Ask me about **React, Next JS, React Native**
+- 💬 Ask me about **React, Next JS, React Native, Node JS, SQL**
 
 - 📫 How to reach me **avinashgupta.works@gmail.com**
 
