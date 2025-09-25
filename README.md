@@ -54,13 +54,10 @@ Previously, at **VILS Behaviour Intelligence**, I scaled a Next.js + TypeScript 
 ---
 
 ### 🌐 Connect with Me  
-<p align="left">
-<a href="https://linkedin.com/in/tier3guy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-<a href="https://twitter.com/avinash35925012"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
-<a href="https://hashnode.com/@avinash651"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="40"/></a>
-<a href="https://leetcode.com/tier_3_guy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
-<a href="https://github.com/tier3guy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/></a>
-</p>  
-
 📫 Reach me: **avinashgupta.works@gmail.com**  
 🌍 Portfolio: [tier3guy.com](https://tier3guy.com/)  
+📝 Blog: [tier3guy.com/blog](https://tier3guy.com/blog)  
+
+
+**🔗 Quick Links**  
+[LinkedIn](https://linkedin.com/in/tier3guy) | [Twitter](https://twitter.com/tier3guy) | [LeetCode](https://leetcode.com/tier_3_guy) | [GitHub](https://github.com/tier3guy)  
