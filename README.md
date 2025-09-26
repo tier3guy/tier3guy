@@ -56,7 +56,7 @@ Previously, at **VILS Behaviour Intelligence**, I scaled a Next.js + TypeScript 
 ### 🌐 Connect with Me  
 🌍 Portfolio: [tier3guy.com](https://tier3guy.com/)  
 📝 Blog: [tier3guy.com/blog](https://tier3guy.com/blog)  
-📫 Reach me: (avinashgupta.works@gmail.com](avinashgupta.works@gmail.com)
+📫 Reach me: [avinashgupta.works@gmail.com](avinashgupta.works@gmail.com)
 
 
 **🔗 Quick Links**  
