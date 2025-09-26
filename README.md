@@ -32,10 +32,10 @@ Previously, at **VILS Behaviour Intelligence**, I scaled a Next.js + TypeScript 
 
 ---
 
-### 🛠️ Projects  
-- **InterviewGenie** – AI-based mock interview simulator (Next.js + Gemini API + Shadcn).  
-- **Linkcrate** – Centralized link manager with Firebase sync (React + Tailwind).  
-- **Logomaker** – Logo generator with live previews & exports (React + Tailwind + Lucide).  
+### 🛠️ Projects   
+- **[Linkcrate](https://linkcrate.vercel.app/)** – Centralized link manager with Firebase sync (React + Tailwind).  
+- **[Logomaker](https://logomaker.tier3guy.com/)** – Logo generator with live previews & exports (React + Tailwind + Lucide).
+- **[InterviewGenie](https://interview-genie.vercel.app/)** – AI-based mock interview simulator (Next.js + Gemini API + Shadcn).   
 
 ---
 
@@ -54,9 +54,9 @@ Previously, at **VILS Behaviour Intelligence**, I scaled a Next.js + TypeScript 
 ---
 
 ### 🌐 Connect with Me  
-📫 Reach me: **avinashgupta.works@gmail.com**  
 🌍 Portfolio: [tier3guy.com](https://tier3guy.com/)  
 📝 Blog: [tier3guy.com/blog](https://tier3guy.com/blog)  
+📫 Reach me: (avinashgupta.works@gmail.com](avinashgupta.works@gmail.com)
 
 
 **🔗 Quick Links**  
