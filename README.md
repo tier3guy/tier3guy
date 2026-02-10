@@ -1,3 +1,5 @@
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/9b1e02b1-c636-4275-aaf5-0c3c7dafa0a1" />
+
 <h1 align="center">Hi 👋, I'm Avinash Gupta</h1>
 <h3 align="center">Specialist Programmer at Infosys | Kubernetes Certified | Backend & Full-Stack Developer</h3>
 
